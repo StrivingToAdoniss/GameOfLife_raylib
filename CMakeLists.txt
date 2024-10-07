@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.30.3)
 enable_testing()
 # Set project name variable
-set(projectName GameOfLife)
+set(projectName GameOfLife_raylib)
 
 # Set project name
 project(${projectName} LANGUAGES C CXX)
